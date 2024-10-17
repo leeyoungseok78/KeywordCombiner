@@ -1,0 +1,13 @@
+[project]
+name = "repl-nix-keywordcombiner"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "openpyxl>=3.1.5",
+    "pandas>=2.2.3",
+    "psycopg2-binary>=2.9.9",
+    "requests>=2.32.3",
+    "streamlit>=1.39.0",
+    "xlsxwriter>=3.2.0",
+]
